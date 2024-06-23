@@ -4,12 +4,12 @@
 I'm Kalu from Nigeria, and i'm a Frontend Web Developer and Designer. I really love learning languages and frameworks such as React, Tailwind, Nexjs. I also use WordPress, Framer, Webflow and 
 i enjoy wireframing, ui, ux design.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winner1303)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills and Experience
 * ⚛️ React, Nextjs
 * 🕸  HTML, CSS, JS
 * 🥾 Bootstrap
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winner1303)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on EasyFlow ( an online money transfer app) 
 - 🌱 I’m currently learning Web App Development 
