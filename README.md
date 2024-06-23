@@ -1,11 +1,13 @@
-### Hi there 👋, Kalu Umah
-#### Web Developer and Designer
 ![Web Developer and Designer](https://raw.githubusercontent.com/Winner1303/Winner1303/b3dacff058858c8b1b689aaa9e9adccbf4403d8e/Twitter%20Header%201500x500%20px.jpeg)
 
+# Kalu Umah
 I'm Kalu from Nigeria, and i'm a Frontend Web Developer and Designer. I really love learning languages and frameworks such as React, Tailwind, Nexjs. I also use WordPress, Framer, Webflow and 
 i enjoy wireframing, ui, ux design.
 
-Skills: MongoDB/NEXT.JS/ REACT / JS / HTML / CSS
+## Skills and Experience
+* ⚛️ React, Nextjs
+* 🕸  HTML, CSS, JS
+* 🥾 Bootstrap
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winner1303)](https://github.com/anuraghazra/github-readme-stats)
 
