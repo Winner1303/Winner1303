@@ -11,7 +11,7 @@ i enjoy wireframing, ui, ux design.
 * 🕸  HTML, CSS, JS
 * 🥾 Bootstrap
 
-- 🔭 I’m currently working on EasyFlow ( an online money transfer app) 
+- 🔭 I’m currently working on an online money transfer app
 - 🌱 I’m currently learning Web App Development 
 - 📫 How to reach me: c.winner1303@gmail.com 
 
