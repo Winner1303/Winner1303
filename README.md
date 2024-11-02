@@ -32,6 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winner1303&show_icons=true&locale=en&layout=compact" alt="winner1303" /></p>
 
+![Kalu Umah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winner1303&hide=contribs,prs)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winner1303&show_icons=true&locale=en" alt="winner1303" /></p>
 
 
