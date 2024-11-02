@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Kalu Umah
 
-<!--
-**Winner1303/Winner1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🔐 Aspiring Ethical Hacker
+I'm passionate about building secure, scalable web applications and exploring the fascinating world of cybersecurity. My journey combines creative development with a security-first mindset.
+🛠️ Tech Stack
 
-Here are some ideas to get you started:
+Frontend: HTML5, CSS3, JavaScript
+Backend: [You can list your preferred backend technologies]
+Security Tools: [You can list security tools you're familiar with]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Focus
+
+Mastering full stack web development
+Learning ethical hacking methodologies
+Building secure web applications
+Contributing to open source projects
+
+📫 Connect with Me
+
+[Your professional links can go here]
+
+🌱 Always Learning
+I believe in continuous learning and keeping up with the latest in both web development and cybersecurity. Currently exploring new ways to build more secure and efficient web applications.
