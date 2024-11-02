@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kalu Umah</h1>
 <p><img align="center" src="freepik-untitled-project-20241030022250Et44.png/?user=winner1303&" alt="winner1303" /></p>
+<hr>
+<h1 align="center">Hi 👋, I'm Kalu Umah</h1>
+
 <hr>
 
 <h3 align="center">I'm an emerging Full Stack Developer with an adventurous twist - while I'm mastering the art of web development, I'm simultaneously exploring the fascinating world of ethical hacking. Sure, I'm early in my journey, but that's what makes it exciting! My curiosity drives me to dive deep into both creating and securing digital solutions. Every bug is a lesson, every error a stepping stone. While my professional experience might be growing, my enthusiasm for learning and problem-solving knows no bounds. Currently turning caffeine into code and security insights, one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
