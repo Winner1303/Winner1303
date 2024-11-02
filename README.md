@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winner1303&label=Profile%20views&color=0e75b6&style=flat" alt="winner1303" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codezonn" target="blank"><img src="https://img.shields.io/twitter/follow/codezonn?logo=twitter&style=for-the-badge" alt="codezonn" /></a> </p>
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@DevHQ)
+[![https://hashnode.com/@DevHQ](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@DevHQ)
 
 - 🔭 I’m currently working on **a web app for Intership demande for an Institution**
 
