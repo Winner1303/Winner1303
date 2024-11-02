@@ -10,8 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winner1303&label=Profile%20views&color=0e75b6&style=flat" alt="winner1303" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codezonn" target="blank"><img src="https://img.shields.io/twitter/follow/codezonn?logo=twitter&style=for-the-badge" alt="codezonn" /></a> </p>
-
-badge&logo=javascript&logoColor=%23F7DF1E) 
+ 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
