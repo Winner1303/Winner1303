@@ -1,6 +1,6 @@
-<p><img align="center" src="freepik-untitled-project-20241030022250Et44.png/?user=winner1303&" alt="winner1303" /></p>
-<hr>
 <h1 align="center">Hi 👋, I'm Kalu Umah</h1>
+
+<p><img align="center" src="freepik-untitled-project-20241030022250Et44.png/?user=winner1303&" alt="winner1303" /></p>
 
 <hr>
 
