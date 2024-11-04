@@ -8,8 +8,6 @@
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winner1303&label=Profile%20views&color=0e75b6&style=flat" alt="winner1303" /> </p>
-
-<p align="left"> <a href="https://twitter.com/codezonn" target="blank"><img src="https://img.shields.io/twitter/follow/codezonn?logo=twitter&style=for-the-badge" alt="codezonn" /></a> </p>
  
 
 
@@ -50,11 +48,18 @@
 
 <hr>
 
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Winner1303&theme=radical&hide_border=false)<br/>
+
 ![Kalu Umah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winner1303&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Winner1303&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Winner1303&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<hr>
+### ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
