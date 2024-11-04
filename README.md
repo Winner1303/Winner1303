@@ -13,13 +13,11 @@
 
 
 
-- 🔭 I’m currently working on **a web app for Intership demande for an Institution**
+- 🔭 I’m currently working on **a web app for Intership demande**
 
 - 🌱 I’m currently learning **MERN STACK Dev and Ethical Hacking notions**
 
 - 👯 I’m looking to collaborate on **web app development projects**
-
-- 📝 I regularly write articles on [https://hashnode.com/@DevHQ](https://hashnode.com/@DevHQ)
 
 - 📫 How to reach me **c.winner1303@gmail.com**
 
