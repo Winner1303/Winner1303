@@ -10,14 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winner1303&label=Profile%20views&color=0e75b6&style=flat" alt="winner1303" /> </p>
  
 
-
-
-
-- 🔭 I’m currently working on **a web app for Intership demande**
-
 - 🌱 I’m currently learning **MERN STACK Dev and Ethical Hacking notions**
 
-- 👯 I’m looking to collaborate on **web app development projects**
+- 👯 I’m looking to collaborate on **web sites/app deve projects**
 
 - 📫 How to reach me **c.winner1303@gmail.com**
 
@@ -59,7 +54,6 @@
 
 
 <hr>
-### ✍️ Random Dev Quote
 <div align="center">
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
