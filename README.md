@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Kalu Umah</h1>
 
-<h3 align="center">I'm an emerging Full Stack Web Developer with an adventurous twist - while I'm mastering the art of web development, I'm simultaneously exploring the fascinating world of ethical hacking. Sure, I'm early in my journey, but that's what makes it exciting! My curiosity drives me to dive deep into both creating and securing digital solutions. Every bug is a lesson, every error a stepping stone. While my professional experience might be growing, my enthusiasm for learning and problem-solving knows no bounds. Currently turning caffeine into code and security insights, one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
+<h3 align="center">Cybersecurity enthusiast and software developer passionate about digital protection. Committed to safeguarding individuals and organizations through innovative security solutions and cutting-edge technology. Dedicated to building a more secure digital ecosystem, one line of code at a time. one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winner1303&label=Profile%20views&color=0e75b6&style=flat" alt="winner1303" /> </p>
  
 
-- 🌱 I’m currently learning **MERN STACK Dev and Ethical Hacking notions**
+- 🌱 I’m currently learning **Ethical Hacking, Python programming and Web Developement**
 
-- 👯 I’m looking to collaborate on **web sites/app deve projects**
+- 👯 I’m looking to collaborate on **Webs and cybersecurity projects**
 
 - 📫 How to reach me **c.winner1303@gmail.com**
 
