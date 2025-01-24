@@ -1,8 +1,6 @@
 <div> 
  
-![image alt](https://github.com/Winner1303/Winner1303/blob/3b20718b325fae878b3526def19cd82e6ccbd27b/2.png)
- 
-<h1 align="center">Hi 👋, I'm</h1>
+![image alt](https://github.com/Winner1303/Winner1303/blob/52787c31147a10b9b7a683653660e24daf1689dd/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <h3 align="center">Cybersecurity enthusiast and software developer passionate about digital protection. Committed to safeguarding individuals and organizations through innovative security solutions and cutting-edge technology. Dedicated to building a more secure digital ecosystem, one line of code at a time. one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
 
