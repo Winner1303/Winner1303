@@ -1,6 +1,6 @@
 <div align="center"> 
  
-<h1 align="center">Hi 👋, I'm Kalu Umah</h1>
+<h1 >Hi 👋, I'm Kalu Umah</h1>
 
 <h3 align="center">Cybersecurity enthusiast and software developer passionate about digital protection. Committed to safeguarding individuals and organizations through innovative security solutions and cutting-edge technology. Dedicated to building a more secure digital ecosystem, one line of code at a time. one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
 
