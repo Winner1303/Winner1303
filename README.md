@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Python programming and Web Developement**
 
-- 👯 I’m looking to collaborate on **Webs and cybersecurity projects**
+- 👯 I’m looking to collaborate on **Webs and Cybersecurity projects**
 
 - 📫 How to reach me **c.winner1303@gmail.com**
 
