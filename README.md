@@ -1,8 +1,8 @@
 <div> 
+ <h1 align="center"> Hi, I'm </h1>
  
 ![image alt](https://github.com/Winner1303/Winner1303/blob/c43d96c4bad86276720cfb06b34df666efee9f3b/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 
-<h1 align="center"> Hi, I'm Kalu Umah</h1>
 <h3 align="center">Cybersecurity enthusiast and software developer passionate about digital protection. Committed to safeguarding individuals and organizations through innovative security solutions and cutting-edge technology. Dedicated to building a more secure digital ecosystem, one line of code at a time. one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
 
 <hr>
